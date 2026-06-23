@@ -10,7 +10,7 @@
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmipriyapradhan2612&show_icons=true&theme=rosepine&hide_border=true&include_all_commits=true" alt="Git Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=laxmipriyapradhan2612&show_icons=true&theme=rosepine&hide_border=true&include_all_commits=true" alt="Git Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true" alt="GitHub Streak" />
 </p>
