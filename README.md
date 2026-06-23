@@ -3,7 +3,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-ff69b4?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Consistency-Daily-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-Loading-ffb6c1?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Performance & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmipriyapradhan2612&show_icons=true&theme=rosepine&hide_border=true&include_all_commits=true" alt="Git Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
