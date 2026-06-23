@@ -28,8 +28,8 @@ This repository tracks my daily growth, logic building, and consistency as I con
 
 | Day | Topic | Key Concepts Learned | Code Link |
 | :---: | :--- | :--- | :---: |
-| 01 | Basics |  | [View](01-Basics/basics.cpp) |
-| 02 | Basics | | [View](01-Basics/) |
+| 01 | Basics | Data types,Implicit/Explicit Type casting, Operators, Basic sum | [View](01-Basics/basics.cpp) |
+| 02 | Basics |   | [View](01-Basics/) |
 
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
