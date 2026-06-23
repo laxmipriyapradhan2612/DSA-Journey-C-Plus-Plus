@@ -10,8 +10,6 @@
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmipriyapradhan2612&bg_color=151515&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Ganesh's Progress Graph" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true" alt="GitHub Streak" />
 </p>
 
