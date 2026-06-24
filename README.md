@@ -31,6 +31,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 03 | Loops | for loop, while loop, do while loop and programs | [View](02-Loops/Types_and_ques.cpp) |
 | 04 | Patterns | Star Patterns, Number patterns and Character patterns | [View](03-Patterns/Star.cpp) [View](03-Patterns/Numbers.cpp) [View](03-Patterns/Alphabets.cpp)|
 | 05 |Functions |Sum of n numbers, To calculate factorial, Sum of digits of a no., nCr, To check and print prime nos., Fibonacci series. | [View](04-Functions/easy.cpp)|
-| 06 | Binary Numbers | Conversion of decimal to binary number and binary to decimal number | [View](05-Binary Numbers/decimalToBinary.cpp) [View](05-Binary Numbers/binaryToDecimal.cpp) |
+| 06 | Binary Numbers | Conversion of decimal to binary number and binary to decimal number | [View](05-Binary_Numbers/decimalToBinary.cpp) [View](05-Binary_Numbers/binaryToDecimal.cpp) |
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
