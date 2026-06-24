@@ -22,15 +22,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 
 ---
 
-## 🗺️ Topic Roadmap
-
-- [ ] 📂 **01-Basics-Day 01
-- [ ] 📂 **02-Basics-Day 02
-- [ ] 📂 **03-Loops-Day 03
-- [ ] 📂 **04-
-
----
-
 ## 🗓️ Daily Progress Tracker
 
 | Day | Topic | Key Concepts Learned | Code Link |
@@ -38,6 +29,9 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 01 | Basics | Data types,Implicit/Explicit Type casting, Operators, Basic sum | [View](01-Basics/basics.cpp) |
 | 02 | Basics | if-else statements, Use of elif statements, Ternary operator  | [View](01-Basics/Conditional_Statements.cpp) |
 | 03 | Loops | for loop, while loop, do while loop and programs | [View](02-Loops/Types_and_ques.cpp) |
+| 04 | Patterns | Star Patterns, Number patterns and Character patterns | [View](03-Patterns/Star.cpp) 
+[View](03-Patterns/Numbers.cpp) |
+
 
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
