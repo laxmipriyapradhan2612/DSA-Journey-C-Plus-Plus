@@ -30,7 +30,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 02 | Basics | if-else statements, Use of elif statements, Ternary operator  | [View](01-Basics/Conditional_Statements.cpp) |
 | 03 | Loops | for loop, while loop, do while loop and programs | [View](02-Loops/Types_and_ques.cpp) |
 | 04 | Patterns | Star Patterns, Number patterns and Character patterns | [View](03-Patterns/Star.cpp) [View](03-Patterns/Numbers.cpp) [View](03-Patterns/Alphabets.cpp)|
-
+| 05 |Functions |Sum of n numbers, To calculate factorial, Sum of digits of a no., nCr, To check and print prime nos., Fibonacci series. | [View](04-Functions/easy.cpp)|
 
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
