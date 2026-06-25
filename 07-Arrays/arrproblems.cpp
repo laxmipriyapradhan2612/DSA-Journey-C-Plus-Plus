@@ -23,7 +23,7 @@ int main(){
     cout<<"Sum= "<<sum<< endl;
     cout<<"Product= "<<prod<<endl;
     return 0;
-}*/
+}
 
 //FUNCTION TO SWAP MAX AND MIN NUMBER OF AN ARRAY
 #include <iostream>
@@ -39,4 +39,54 @@ int min( int arr[], int sz){
             pos=i;
         }
     }
+    return pos;
+}
+int max( int arr[], int sz){
+    int largest= INT_MIN;
+    int pos;
+    for(int i=0; i<sz; i++){
+        if(arr[i]>largest){
+            largest=arr[i];
+            pos=i;
+        }
+    }
+    return pos;
+}
+int main(){
+    int arr[]={1,2,3,4,5};
+    int size=5;
+    int maxPos= max(arr,size);
+    int minPos= min(arr, size);
+    swap(arr[minPos], arr[maxPos]);
+    for(int i=0; i<size; i++){
+        
+        cout<<arr[i]<<" ";
+    }
+    cout<<endl;
+    return 0;
+}*/
+
+//FUNCTION TO PRINT ALL THE UNIQUE VALUES IN THE ARRAY
+#include <iostream>
+using namespace std;
+void unique(int arr[], int sz){
+    for(int i=0; i<sz; i++){
+        int count=0;
+        for(int j=0; j<sz; j++){
+            if(arr[i]==arr[j]){
+                count==1;
+                break;
+            }
+        }
+        if(count==0){
+            cout<<arr[i]<<" ";
+        }
+    }
+    cout<<endl;
+}
+
+int main(){
+    int arr[]={1,2,3,4,1,2};
+    int size=6;
+    return 0;
 }
