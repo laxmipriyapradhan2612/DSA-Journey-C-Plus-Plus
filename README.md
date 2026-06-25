@@ -33,6 +33,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 05 |Functions |Sum of n numbers, To calculate factorial, Sum of digits of a no., nCr, To check and print prime nos., Fibonacci series. | [View](04-Functions/easy.cpp)|
 | 06 | Binary Numbers | Conversion of decimal to binary number and binary to decimal number | [View](05-Binary_Numbers/decimalToBinary.cpp) [View](05-Binary_Numbers/binaryToDecimal.cpp) |
 | 07 | Bitwise operators |Bitwise operators and Scope of variables | [View](06-Bitwise_operators/bitwiseOperator.cpp) [View](06-Bitwise_operators/scopeOfVariable.cpp) |
-| 08 | Arrays |Array initialization, max and min value in array, reverse of array, l,inear search | [View] (07-Arrays/simpleArrays.cpp) [View](07-Arrays/reverseArray.cpp) [View](07-Arrays/linearSearch.cpp)|
+| 08 | Arrays |Array initialization, max and min value in array, reverse of array, l,inear search | [View](07-Arrays/simpleArrays.cpp) [View](07-Arrays/reverseArray.cpp) [View](07-Arrays/linearSearch.cpp)|
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
