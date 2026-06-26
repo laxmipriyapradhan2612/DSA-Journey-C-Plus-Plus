@@ -1,5 +1,5 @@
 //FUNCTION TO CALCULATE SUM AND PRODUCT OF ALL NUMBERS IN AN ARRAY
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int arrSum(int arr[], int sz){
     int sum=0;
@@ -26,7 +26,7 @@ int main(){
 }
 
 //FUNCTION TO SWAP MAX AND MIN NUMBER OF AN ARRAY
-#include <iostream>
+/*#include <iostream>
 #include<climits>
 using namespace std;
 
@@ -74,11 +74,10 @@ void unique(int arr[], int sz){
         int count=0;
         for(int j=0; j<sz; j++){
             if(arr[i]==arr[j]){
-                count==1;
-                break;
+                count+=1;
             }
         }
-        if(count==0){
+        if(count==1){
             cout<<arr[i]<<" ";
         }
     }
@@ -88,5 +87,6 @@ void unique(int arr[], int sz){
 int main(){
     int arr[]={1,2,3,4,1,2};
     int size=6;
+    unique(arr, size);
     return 0;
 }

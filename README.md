@@ -33,6 +33,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 05 |Functions |Sum of n numbers, To calculate factorial, Sum of digits of a no., nCr, To check and print prime nos., Fibonacci series. | [View](04-Functions/easy.cpp)|
 | 06 | Binary Numbers | Conversion of decimal to binary number and binary to decimal number | [View](05-Binary_Numbers/decimalToBinary.cpp) [View](05-Binary_Numbers/binaryToDecimal.cpp) |
 | 07 | Bitwise operators |Bitwise operators and Scope of variables | [View](06-Bitwise_operators/bitwiseOperator.cpp) [View](06-Bitwise_operators/scopeOfVariable.cpp) |
-| 08 | Arrays |Array initialization, max and min value in array, reverse of array, linear search | [View](07-Arrays/simpleArrays.cpp) [View](07-Arrays/reverseArray.cpp) [View](07-Arrays/linearSearch.cpp)|
+| 08 | Arrays |Array initialization, max and min value in array, reverse of array, linear search, some important array leetcode prob | [View](07-Arrays/simpleArrays.cpp) [View](07-Arrays/reverseArray.cpp) [View](07-Arrays/linearSearch.cpp) [View](07-Arrays/arrproblems.cpp)|
+| 09 |Vectors |Syntax, vector functions, dynamic memory allocation in vectors and leetcode ques of finding a single unique value in vector| [View](08-Vectors/syntax.cpp) [View](08-Vectors/vectorFunctions.cpp) [View](08-Vectors/dynamicMem.cpp) [View](08-Vectors/leetcode_singleunq.cpp)|
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
