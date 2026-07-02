@@ -36,5 +36,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 08 | Arrays |Array initialization, max and min value in array, reverse of array, linear search, some important array leetcode prob | [View](07-Arrays/simpleArrays.cpp) [View](07-Arrays/reverseArray.cpp) [View](07-Arrays/linearSearch.cpp) [View](07-Arrays/arrproblems.cpp)|
 | 09 |Vectors |Syntax, vector functions, dynamic memory allocation in vectors and leetcode ques of finding a single unique value in vector| [View](08-Vectors/syntax.cpp) [View](08-Vectors/vectorFunctions.cpp) [View](08-Vectors/dynamicMem.cpp) [View](08-Vectors/leetcode_singleunq.cpp)|
 | 10 | Subarrays |Total subarrays of an array, max subarray sum using BRUTE'S and KADANE'S approach, return pairs with target sum using BRUTE and 2  POINTER approach, majority element in array | [View](09-Subarray/totalSubarray.cpp) [View](09-Subarray/maximumSubarraySum.cpp) [View](09-Subarray/pairSum.cpp) [View](09-Subarray/majorityElement.cpp) |
+| 11 |Binary exponentiation | To calculate the value of x raised to power n usind the binary value of the power | [View](10-Binary_exponentiation/x_raised_to_power_n.cpp) |
+| 12 |Stock Buy & Sell | To calculate the best day to buy a stock and sell it to gain the maximum profit | [View](11-Stock_buy_and_sell/returnMaxProfit.cpp) |
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
