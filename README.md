@@ -38,5 +38,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 10 | Subarrays |Total subarrays of an array, max subarray sum using BRUTE'S and KADANE'S approach, return pairs with target sum using BRUTE and 2  POINTER approach, majority element in array | [View](09-Subarray/totalSubarray.cpp) [View](09-Subarray/maximumSubarraySum.cpp) [View](09-Subarray/pairSum.cpp) [View](09-Subarray/majorityElement.cpp) |
 | 11 |Binary exponentiation | To calculate the value of x raised to power n using the binary value of the power | [View](10-Binary_exponentiation/x_raised_to_power_n.cpp) |
 | 12 |Stock Buy & Sell | To calculate the best day to buy a stock and sell it to gain the maximum profit | [View](11-Stock_buy_and_sell/returnMaxProfit.cpp) |
+| 13 | Container with most water | To find out the container with maximum area i.e max water | [View](12-Container_with_most_water/container_with_most_water.cpp) |
+
 ---
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
