@@ -39,6 +39,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 11 |Binary exponentiation | To calculate the value of x raised to power n using the binary value of the power | [View](10-Binary_exponentiation/x_raised_to_power_n.cpp) |
 | 12 |Stock Buy & Sell | To calculate the best day to buy a stock and sell it to gain the maximum profit | [View](11-Stock_buy_and_sell/returnMaxProfit.cpp) |
 | 13 | Container with most water | To find out the container with maximum area i.e max water | [View](12-Container_with_most_water/container_with_most_water.cpp) |
-| 14 | Product of array except self | To return an array which has all its element multiplied except the element present at that index value using BRUTE APPROACH, LINEAR APPROACH & CONSTANT TIME COMPLEXITY | [View](13-Product_of_array_except_self/product_of_array_except_self.cpp) [View](13-Product_of_array_except_self/optimal_approach.cpp) [View](13-Product_of_array_except_self/constant_space_complexity.cpp) |
-
----<p align="center">Made with 💖 and a lot of compilation errors.</p>
+| 14 | Product of array except self | To return an array which has all its element multiplied except the element present at that index value using BRUTE APPROACH, LINEAR APPROACH & CONSTANT SPACE COMPLEXITY | [View](13-Product_of_array_except_self/product_of_array_except_self.cpp) [View](13-Product_of_array_except_self/optimal_approach.cpp) [View](13-Product_of_array_except_self/constant_space_complexity.cpp) |
+| 15 | Pointers| Basics about pointers, memory address, null pointer, pass by reference using pointers and alias, pointer arithmetic, array pointers and some questions | [View](14-Pointers/memory_address.cpp) [View](14-Pointers/null_pointer.cpp) [View](14-Pointers/pass_by_reference.cpp) [View](14-Pointers/pointer_arithmetic.cpp) [View](14-Pointers/array_pointers.cpp) [View](14-Pointers/questions.cpp)|
+<p align="center">Made with 💖 and a lot of compilation errors.</p>
