@@ -10,7 +10,7 @@
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true&cache_bust=3" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true" alt="Github Streak" />
 </p>
 
 ---
