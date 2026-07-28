@@ -46,4 +46,5 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 18 | Mountain array | Peak index value searching in a mountain array (Binary search) | [View](17-Mountain_array/Peak_index_in_sorted_array.cpp) |
 | 19 | Single element | Searching a single element in sorted array (Binary search) | [View](18-Single_element_in_sorted_array/single_element_in_sorted_array.cpp) |
 | 20 | Book allocation | Allocating books to M number of students and returning the minimum possible number of pages of the max allowed pages (Binary search) | [View](19-Book_allocation/book_allocation_problem.cpp) |
+| 21 | Painter's Partition problem | To find minimum time to paint all the boards under the continuous sections of board by painter (Binary search) | [View](20-Painter_partition/painter_partition_problem.cpp) |
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
