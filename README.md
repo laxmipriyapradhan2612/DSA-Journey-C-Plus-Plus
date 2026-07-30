@@ -49,4 +49,5 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 21 | Painter's Partition problem | To find minimum time to paint all the boards under the continuous sections of board by painter (Binary search) | [View](20-Painter_partition/painter_partition_problem.cpp) |
 | 22 | Agressive cows problem | Assign C cows to N stalls such that the minimum distance between 
 them is the largest possible.RETURN THE LARGEST MINIMUM DISTANCE(Binary search) | [View](21-Agressive_cows/agressive_cows_problem.cpp) |
+| 23 | Sorting | Bubble sort, Selection sort,  | [View](22-Sorting/bubble_sort.cpp) |
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
