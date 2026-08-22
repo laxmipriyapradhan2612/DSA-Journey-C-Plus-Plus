@@ -39,11 +39,10 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 19 | Single element | Searching a single element in sorted array (Binary search) | [View](18-Single_element_in_sorted_array/single_element_in_sorted_array.cpp) |
 | 20 | Book allocation | Allocating books to M number of students and returning the minimum possible number of pages of the max allowed pages (Binary search) | [View](19-Book_allocation/book_allocation_problem.cpp) |
 | 21 | Painter's Partition problem | To find minimum time to paint all the boards under the continuous sections of board by painter (Binary search) | [View](20-Painter_partition/painter_partition_problem.cpp) |
-| 22 | Agressive cows problem | Assign C cows to N stalls such that the minimum distance between 
-them is the largest possible.RETURN THE LARGEST MINIMUM DISTANCE(Binary search) | [View](21-Agressive_cows/agressive_cows_problem.cpp) |
-| 23 | Sorting | Bubble sort, Selection sort,  | [View](22-Sorting/bubble_sort.cpp) |
-| 24 | C++ Standard template library -1 | vector, iterator, list, deque, pair, stack  | [View](23-STL1\vector.cpp) [View](23-STL1\iterator.cpp) [View](23-STL1\list.cpp) [View](23-STL1\deque.cpp) [View](23-STL1\pair.cpp) [View](23-STL1\stack.cpp)|
-| 25 | C++ Standard template library -2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View]() [View]() [View]()|
+| 22 | Agressive cows problem | Assign C cows to N stalls such that the minimum distance between them is the largest possible. | [View](21-Agressive_cows/agressive_cows_problem.cpp) |
+| 23 | Sorting | Bubble sort, Selection sort, insertion sort  | [View](22-Sorting/bubble_sort.cpp) [View](22-Sorting\selection_sort.cpp) [View](22-Sorting/insertion_sort.cpp)|
+| 24 | C++ Standard template library-1 | vector, iterator, list, deque, pair, stack  | [View](23-STL1\vector.cpp) [View](23-STL1\iterator.cpp) [View](23-STL1\list.cpp) [View](23-STL1\deque.cpp) [View](23-STL1\pair.cpp) [View](23-STL1\stack.cpp)|
+| 25 | C++ Standard template library-2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View]() [View]() [View]()|
 
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
