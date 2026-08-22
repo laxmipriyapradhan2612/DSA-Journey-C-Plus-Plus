@@ -7,14 +7,6 @@
 
 ---
 
-## 📊 Performance & Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=laxmipriyapradhan2612&theme=rosepine&hide_border=true" alt="Github Streak" />
-</p>
-
----
-
 ### 🌸 Welcome to my algorithmic workspace!
 > *"Just a student teaching their compiler new tricks."*
 
@@ -50,4 +42,8 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 22 | Agressive cows problem | Assign C cows to N stalls such that the minimum distance between 
 them is the largest possible.RETURN THE LARGEST MINIMUM DISTANCE(Binary search) | [View](21-Agressive_cows/agressive_cows_problem.cpp) |
 | 23 | Sorting | Bubble sort, Selection sort,  | [View](22-Sorting/bubble_sort.cpp) |
+| 24 | C++ Standard template library -1 | vector, iterator, list, deque, pair, stack  | [View](23-STL1\vector.cpp) [View](23-STL1\iterator.cpp) [View](23-STL1\list.cpp) [View](23-STL1\deque.cpp) [View](23-STL1\pair.cpp) [View](23-STL1\stack.cpp)|
+| 25 | C++ Standard template library -2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View]() [View]() [View]()|
+
+
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
