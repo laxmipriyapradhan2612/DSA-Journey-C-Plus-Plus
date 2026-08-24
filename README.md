@@ -42,7 +42,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 22 | Agressive cows problem | Assign C cows to N stalls such that the minimum distance between them is the largest possible. | [View](21-Agressive_cows/agressive_cows_problem.cpp) |
 | 23 | Sorting | Bubble sort, Selection sort, insertion sort  | [View](22-Sorting/bubble_sort.cpp) [View](22-Sorting\selection_sort.cpp) [View](22-Sorting/insertion_sort.cpp)|
 | 24 | C++ Standard template library-1 | vector, iterator, list, deque, pair, stack  | [View](23-STL1\vector.cpp) [View](23-STL1\iterator.cpp) [View](23-STL1\list.cpp) [View](23-STL1\deque.cpp) [View](23-STL1\pair.cpp) [View](23-STL1\stack.cpp)|
-| 25 | C++ Standard template library-2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View]() [View]() [View]()|
+| 25 | C++ Standard template library-2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View](24-STL2\map.cpp) [View](24-STL2\sets.cpp) [View](24-STL2\algorithm.cpp)|
 
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
