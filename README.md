@@ -45,6 +45,10 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 25 | C++ Standard template library-2 | queue, priority_queue, map, set, Algorithms | [View](24-STL2\queue.cpp) [View](24-STL2\priority_queue.cpp) [View](24-STL2\map.cpp) [View](24-STL2\sets.cpp) [View](24-STL2\algorithm.cpp)|
 | 26 | Strings | Character arrays, strings and reversing a string | [View](25-String\char_arrays.cpp) [View](25-String\string.cpp) [View](25-String\reverse_a_string.cpp)|
 | 27 | Valid Palindrome | To check whether a string is Palindrome or not considering only alphanumeric characters and by converting uppercase letters to lowercase. | [View](26-Palindrome\valid_palindrome.cpp)|
+| 28 |  Remove All Occurrences of a Substring | Return string s after removing all occurrences of part(substring of s). | [View](27-Remove_all_occurrence\remove_substring.cpp)|
+| 29 | Permutation in String | Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise. | [View](28-Permutation_in_string\finding_every_permutation.cpp)|
+| 30 | Reverse Words in a String | Return a string of the words in reverse order concatenated by a single space. | [View](29-Reverse_words_in_string\reverse_words_and_extra_spaces.cpp)|
+| 31 | String compression | Compressing a character array and returning it with the new length of the array. | [View](30-String_compression\compression.cpp)|
 
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
