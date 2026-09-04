@@ -51,4 +51,5 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 31 | String compression | Compressing a character array and returning it with the new length of the array. | [View](30-String_compression\compression.cpp)|
 | 32 | Maths in DSA | Logic of Prime numbers and finding prime numbners in a range using SIEVE ERATOSTHENES APPROACH, digits in a number and various operations on digits, armstrong number, gcd and lcm, reversing a number, palindrome number.| [View](31-Math\prime_numbers_logic.cpp) [View](31-Math\Digits_in_a_number.cpp) [View](31-Math\armstrong_no.cpp) [View](31-Math\gcd.cpp) [View](31-Math\reverse_number.cpp) [View](31-Math\palindrome_no.cpp)|
 | 33 | 2D Array| Basics about 2D Arrays, linear search, maximum row and column sum, diagonal sum(primary and secondary) | [View](32-2D_Array\2d_arrays.cpp) [View](32-2D_Array\linear_search.cpp) [View](32-2D_Array\max_row_and_col_sum.cpp) [View](32-2D_Array\diagonal_sum.cpp)|
+| 34 | 2D Vectors| Basics about 2D Vectors --> dynamic in nature | [View](33-2D_vectors\2d_vectors.cpp)|
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
