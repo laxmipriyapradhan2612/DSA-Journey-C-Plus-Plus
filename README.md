@@ -49,6 +49,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 29 | Permutation in String | Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise. | [View](28-Permutation_in_string\finding_every_permutation.cpp)|
 | 30 | Reverse Words in a String | Return a string of the words in reverse order concatenated by a single space. | [View](29-Reverse_words_in_string\reverse_words_and_extra_spaces.cpp)|
 | 31 | String compression | Compressing a character array and returning it with the new length of the array. | [View](30-String_compression\compression.cpp)|
-
-
+| 32 | Maths in DSA | Logic of Prime numbers and finding prime numbners in a range using SIEVE ERATOSTHENES APPROACH, digits in a number and various operations on digits, armstrong number, gcd and lcm, reversing a number, palindrome number.| [View](31-Math\prime_numbers_logic.cpp) [View](31-Math\Digits_in_a_number.cpp) [View](31-Math\armstrong_no.cpp) [View](31-Math\gcd.cpp) [View](31-Math\reverse_number.cpp) [View](31-Math\palindrome_no.cpp)|
+| 33 | 2D Array| Basics about 2D Arrays, linear search, maximum row and column sum, diagonal sum(primary and secondary) | [View](32-2D_Array\2d_arrays.cpp) [View](32-2D_Array\linear_search.cpp) [View](32-2D_Array\max_row_and_col_sum.cpp) [View](32-2D_Array\diagonal_sum.cpp)|
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
