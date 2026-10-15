@@ -53,4 +53,12 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 33 | 2D Array| Basics about 2D Arrays, linear search, maximum row and column sum, diagonal sum(primary and secondary) | [View](32-2D_Array/2d_arrays.cpp) [View](32-2D_Array/linear_search.cpp) [View](32-2D_Array/max_row_and_col_sum.cpp) [View](32-2D_Array/diagonal_sum.cpp)|
 | 34 | 2D Vectors| Basics about 2D Vectors --> dynamic in nature | [View](33-2D_vectors/2d_vectors.cpp)|
 | 35 | Search a 2D matrix | Given an integer target, return true if target is in matrix or false otherwise. time complexity--> O(log(m * n)) | [View](34-Search_2D_Matrix/binary_search_in_2D_matrix.cpp)|
+| 36 | Spiral Matrix | Given an m x n matrix, return all elements of the matrix in spiral order | [View](35-Spiral_Matrix\54_spiral_matrix.cpp)|
+| 37 | Two sum | return the indices of the two elements whose sum is equal to the target | [View](36-Two_sum\using_hashing.cpp)|
+| 38 | Find missing and repeated values| array of range [1, n^2]. Each integer appears exactly once except a which appears twice and b which is missing. | [View](37-missing_and_Repeated_values\find_missing_and_repeated_values.cpp)|
+| 39 |  Find the duplicate number | There is only one repeated number in nums, return this repeated number with constant space without modifying nums | [View](38-Duplicate_Number\find_the_duplicate_number.cpp)|
+| 40 |  Four Sum |Given an array nums of n integers, return an array of all the unique quadruplets  | [View](39-4sum\2Pointer_approach.cpp)|
+| 41 |  Subarray sum equals to k |Return the total number of subarrays whose sum equals to k.  | [View](40-Subarray_Sum\subarray_sum_equals_to_k.cpp)|
+
+
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
