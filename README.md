@@ -59,6 +59,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 39 |  Find the duplicate number | There is only one repeated number in nums, return this repeated number with constant space without modifying nums | [View](38-Duplicate_Number\find_the_duplicate_number.cpp)|
 | 40 |  Four Sum |Given an array nums of n integers, return an array of all the unique quadruplets  | [View](39-4sum\2Pointer_approach.cpp)|
 | 41 |  Subarray sum equals to k |Return the total number of subarrays whose sum equals to k.  | [View](40-Subarray_Sum\subarray_sum_equals_to_k.cpp)|
-| 42 |  Recursion |printing numbers fron n to 1, n factorial, sum of n numbers  | [View](41-Recursion\printing_numbers_from_n_to_1.cpp) [View](41-Recursion\n_factorial.cpp) [View](41-Recursion\sum_of_n_terms.cpp)|
+| 42 |  Recursion |printing numbers from n to 1, n factorial, sum of n numbers,fibonacci numbers, check if an array is sorted, Recursive binary search  | [View](41-Recursion\printing_numbers_from_n_to_1.cpp) [View](41-Recursion\n_factorial.cpp) [View](41-Recursion\sum_of_n_terms.cpp) [View](41-Recursion\fibonacci_number.cpp) [View](41-Recursion\check_if_array_is_sorted.cpp) [View](41-Recursion\Recursive_binary_search.cpp)|
+
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
