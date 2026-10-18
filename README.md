@@ -60,6 +60,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 40 |  Four Sum |Given an array nums of n integers, return an array of all the unique quadruplets  | [View](39-4sum\2Pointer_approach.cpp)|
 | 41 |  Subarray sum equals to k |Return the total number of subarrays whose sum equals to k.  | [View](40-Subarray_Sum\subarray_sum_equals_to_k.cpp)|
 | 42 |  Recursion |printing numbers from n to 1, n factorial, sum of n numbers,fibonacci numbers, check if an array is sorted, Recursive binary search  | [View](41-Recursion\printing_numbers_from_n_to_1.cpp) [View](41-Recursion\n_factorial.cpp) [View](41-Recursion\sum_of_n_terms.cpp) [View](41-Recursion\fibonacci_number.cpp) [View](41-Recursion\check_if_array_is_sorted.cpp) [View](41-Recursion\Recursive_binary_search.cpp)|
-
+| 43 |  Subsets |Printing all the subsets of an array, printing the powerset of an array having unique elements, printing all the subsets of an array having duplicate values | [View](42-Print_all_Subsets\To_print_all_the_subsets_of_an_array.cpp) [View](42-Print_all_Subsets\print_the_vector_of_vector_of_the_subsets.cpp) [View](42-Print_all_Subsets\subsets_2.cpp)|
+| 44 | Permutations |Given array of distinct elements--> return all the permutations  | [View](43-Permutations\permutation_of_array.cpp)|
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
