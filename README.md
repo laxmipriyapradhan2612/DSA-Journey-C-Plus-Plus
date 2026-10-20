@@ -64,5 +64,6 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 44 | Permutations |Given array of distinct elements--> return all the permutations  | [View](43-Permutations\permutation_of_array.cpp)|
 | 45 | N-Queens | Placing n queens on an n x n chessboard such that no two queens attack each other. | [View](44-N_Queens\Based_on_backtracking.cpp)|
 | 46 | Sudoku Solver |Write a program to solve a Sudoku puzzle by filling the empty cells. | [View](45-Sudoku_solver\solving_a_Sudoku_Based_on_backtracking.cpp)|
-
+| 47 | Rat in a maze |Finding the correct path by visiting only elements 1 in a 2D array | [View](46-Rat_In_a_Maze\rat_in_a_maze_using_backtracking.cpp)|
+| 48 | Combination Sum | Return a list of all unique combinations of elements where the chosen numbers sum to target. | [View](47-Combination_Sum\combination_sum.cpp)|
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
