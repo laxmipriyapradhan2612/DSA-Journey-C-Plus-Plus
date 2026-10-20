@@ -53,17 +53,17 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 33 | 2D Array| Basics about 2D Arrays, linear search, maximum row and column sum, diagonal sum(primary and secondary) | [View](32-2D_Array/2d_arrays.cpp) [View](32-2D_Array/linear_search.cpp) [View](32-2D_Array/max_row_and_col_sum.cpp) [View](32-2D_Array/diagonal_sum.cpp)|
 | 34 | 2D Vectors| Basics about 2D Vectors --> dynamic in nature | [View](33-2D_vectors/2d_vectors.cpp)|
 | 35 | Search a 2D matrix | Given an integer target, return true if target is in matrix or false otherwise. time complexity--> O(log(m * n)) | [View](34-Search_2D_Matrix/binary_search_in_2D_matrix.cpp)|
-| 36 | Spiral Matrix | Given an m x n matrix, return all elements of the matrix in spiral order | [View](35-Spiral_Matrix\54_spiral_matrix.cpp)|
-| 37 | Two sum | return the indices of the two elements whose sum is equal to the target | [View](36-Two_sum\using_hashing.cpp)|
-| 38 | Find missing and repeated values| array of range [1, n^2]. Each integer appears exactly once except a which appears twice and b which is missing. | [View](37-missing_and_Repeated_values\find_missing_and_repeated_values.cpp)|
-| 39 |  Find the duplicate number | There is only one repeated number in nums, return this repeated number with constant space without modifying nums | [View](38-Duplicate_Number\find_the_duplicate_number.cpp)|
-| 40 |  Four Sum |Given an array nums of n integers, return an array of all the unique quadruplets  | [View](39-4sum\2Pointer_approach.cpp)|
-| 41 |  Subarray sum equals to k |Return the total number of subarrays whose sum equals to k.  | [View](40-Subarray_Sum\subarray_sum_equals_to_k.cpp)|
-| 42 |  Recursion |printing numbers from n to 1, n factorial, sum of n numbers,fibonacci numbers, check if an array is sorted, Recursive binary search  | [View](41-Recursion\printing_numbers_from_n_to_1.cpp) [View](41-Recursion\n_factorial.cpp) [View](41-Recursion\sum_of_n_terms.cpp) [View](41-Recursion\fibonacci_number.cpp) [View](41-Recursion\check_if_array_is_sorted.cpp) [View](41-Recursion\Recursive_binary_search.cpp)|
-| 43 |  Subsets |Printing all the subsets of an array, printing the powerset of an array having unique elements, printing all the subsets of an array having duplicate values | [View](42-Print_all_Subsets\To_print_all_the_subsets_of_an_array.cpp) [View](42-Print_all_Subsets\print_the_vector_of_vector_of_the_subsets.cpp) [View](42-Print_all_Subsets\subsets_2.cpp)|
-| 44 | Permutations |Given array of distinct elements--> return all the permutations  | [View](43-Permutations\permutation_of_array.cpp)|
-| 45 | N-Queens | Placing n queens on an n x n chessboard such that no two queens attack each other. | [View](44-N_Queens\Based_on_backtracking.cpp)|
-| 46 | Sudoku Solver |Write a program to solve a Sudoku puzzle by filling the empty cells. | [View](45-Sudoku_solver\solving_a_Sudoku_Based_on_backtracking.cpp)|
-| 47 | Rat in a maze |Finding the correct path by visiting only elements 1 in a 2D array | [View](46-Rat_In_a_Maze\rat_in_a_maze_using_backtracking.cpp)|
-| 48 | Combination Sum | Return a list of all unique combinations of elements where the chosen numbers sum to target. | [View](47-Combination_Sum\combination_sum.cpp)|
+| 36 | Spiral Matrix | Given an m x n matrix, return all elements of the matrix in spiral order | [View](35-Spiral_Matrix/54_spiral_matrix.cpp)|
+| 37 | Two sum | return the indices of the two elements whose sum is equal to the target | [View](36-Two_sum/using_hashing.cpp)|
+| 38 | Find missing and repeated values| array of range [1, n^2]. Each integer appears exactly once except a which appears twice and b which is missing. | [View](37-missing_and_Repeated_values/find_missing_and_repeated_values.cpp)|
+| 39 |  Find the duplicate number | There is only one repeated number in nums, return this repeated number with constant space without modifying nums | [View](38-Duplicate_Number/find_the_duplicate_number.cpp)|
+| 40 |  Four Sum |Given an array nums of n integers, return an array of all the unique quadruplets  | [View](39-4sum/2Pointer_approach.cpp2Pointer_approach.cpp)|
+| 41 |  Subarray sum equals to k |Return the total number of subarrays whose sum equals to k.  | [View](40-Subarray_Sum/subarray_sum_equals_to_k.cpp)|
+| 42 |  Recursion |printing numbers from n to 1, n factorial, sum of n numbers,fibonacci numbers, check if an array is sorted, Recursive binary search  | [View](41-Recursion/printing_numbers_from_n_to_1.cpp) [View](41-Recursion/n_factorial.cpp) [View](41-Recursion/sum_of_n_terms.cpp) [View](41-Recursion/fibonacci_number.cpp) [View](41-Recursion/check_if_array_is_sorted.cpp) [View](41-Recursion/Recursive_binary_search.cpp)|
+| 43 |  Subsets |Printing all the subsets of an array, printing the powerset of an array having unique elements, printing all the subsets of an array having duplicate values | [View](42-Print_all_Subsets/To_print_all_the_subsets_of_an_array.cpp) [View](42-Print_all_Subsets/print_the_vector_of_vector_of_the_subsets.cpp) [View](42-Print_all_Subsets/subsets_2.cpp)|
+| 44 | Permutations |Given array of distinct elements--> return all the permutations  | [View](43-Permutations/permutation_of_array.cpp)|
+| 45 | N-Queens | Placing n queens on an n x n chessboard such that no two queens attack each other. | [View](44-N_Queens/Based_on_backtracking.cpp)|
+| 46 | Sudoku Solver |Write a program to solve a Sudoku puzzle by filling the empty cells. | [View](45-Sudoku_solver/solving_a_Sudoku_Based_on_backtracking.cpp)|
+| 47 | Rat in a maze |Finding the correct path by visiting only elements 1 in a 2D array | [View](46-Rat_In_a_Maze/rat_in_a_maze_using_backtracking.cpp)|
+| 48 | Combination Sum | Return a list of all unique combinations of elements where the chosen numbers sum to target. | [View](47-Combination_Sum/combination_sum.cpp)|
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
