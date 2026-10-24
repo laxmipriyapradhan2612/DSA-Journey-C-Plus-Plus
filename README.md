@@ -67,6 +67,7 @@ This repository tracks my daily growth, logic building, and consistency as I con
 | 47 | Rat in a maze |Finding the correct path by visiting only elements 1 in a 2D array | [View](46-Rat_In_a_Maze/rat_in_a_maze_using_backtracking.cpp)|
 | 48 | Combination Sum | Return a list of all unique combinations of elements where the chosen numbers sum to target. | [View](47-Combination_Sum/combination_sum.cpp)|
 | 49 | Palindrome Partitioning | partition string such that every substring of the partition is a palindrome. | [View](48-Palindrome_partitioning/using_backtracking.cpp)|
-| 50 | Merge Sort | Sorting an array using Divide and conquer method(MErge Sorting) | [View](49-Merge_Sort/Divide_and_Conquer.cpp)|
+| 50 | Merge Sort | Sorting an array using Divide and conquer method(Merge Sorting) | [View](49-Merge_Sort/Divide_and_Conquer.cpp)|
+| 51 | Quick Sort | Sorting an array using Quick sort technique | [View](50-Quick_Sort/quick_sort.cpp)|
 
 <p align="center">Made with 💖 and a lot of compilation errors.</p>
